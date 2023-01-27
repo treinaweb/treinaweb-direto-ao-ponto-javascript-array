@@ -1,20 +1,27 @@
-const frutas = ["maçã", "mamão", "laranja", "banana", "pera"];
+// const numeros = [5, 6, 3, 1, 4];
 
-const numeros = [10, 5, 30, 27, 18];
+// const resultado = numeros.reduce(function (acumulador, valorAtual) {
+//     console.log(acumulador, valorAtual);
+//     return acumulador + valorAtual;
+// }, 0);
 
-const frutasFiltradas = frutas.filter(function (fruta, indice, frutas) {
-    return fruta.length <= 5
-});
+// console.log(resultado);
 
-const numerosP = numeros.filter(function (numero) {
-    return numero % 2 === 0;
-});
-
-const numerosPares = numeros.map((numero) => {
-    if (numero % 2 === 0) {
-        return numero;
+const cursos = [
+    {
+        nome: 'JavaScript',
+        videos: 10,
+    },
+    {
+        nome: 'PHP',
+        videos: 3,
+    },
+    {
+        nome: 'PYTHON',
+        videos: 35,
     }
-});
+]
 
-console.log(numerosPares);
-console.log(numerosP);
+const totalVideos = cursos.reduce((acumulador, curso) => acumulador + curso.videos, 0)
+
+console.log(`O total de vídeos é ${totalVideos}`);
