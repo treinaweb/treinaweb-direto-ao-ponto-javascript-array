@@ -1,14 +1,11 @@
-// [120, "dwad", {}, [], function () { }]
+const frutas = ["maçã", "mamão", "laranja", "banana"];
 
-// Pelo construtor do Array
+// console.log(frutas[0]);
 
-// 1 argumento
-// const array = new Array(3);
-// [,,]
-// 2 ou mais argumento
-const array = new Array(3, 5);
-// console.log(array);
+const resultado = frutas.indexOf("laranja")
+if (resultado !== -1) {
 
-// Pela notação literal
-const forma2 = [3];
-console.log(forma2);
+    frutas[resultado] = "uva";
+}
+
+console.log(frutas);
