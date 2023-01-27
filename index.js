@@ -1,11 +1,9 @@
-// const array = [1, 2, ...[3, 4, 5]];
+const numeros = [44, 52, 10, 4];
 
-// console.log(array[2]);
+const numerosNovos = numeros.map((numero, indice, numeros) => {
+    console.log(numero, 'indice>', indice);
 
-const frutasTropicais = ["acerola", "cajá"];
+    return numero * 2;
+});
 
-const frutasDeInverno = ["banana", "carambola"];
-
-const frutas = ["uva", "mamão", ...frutasTropicais, ...frutasDeInverno];
-
-console.log(frutas);
+console.log(numerosNovos);
