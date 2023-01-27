@@ -1,0 +1,18 @@
+Aula | Video | Commit | Link
+------ | ------ | ------ | ------
+Aula 01 | Vídeo 02 - Como criar Arrays | 01:02 - Como criar Arrays | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/17185db4cacc29646bfcb36eb5fdae6b8a7050de.zip)
+Aula 01 | Vídeo 03 - Acessando um elemento | 01:03 - Acessando um elemento | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/afdbcb349bd23aeafcd64f15474ce8844c73b4c4.zip)
+Aula 01 | Vídeo 04 - Métodos para adicionar itens do Array | 01:04 - Métodos para adicionar itens do Array | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/fa9606d332a82ddb80cab3a61b0a4415934c5c85.zip)
+Aula 01 | Vídeo 05 - Métodos para remover item do Array | 01:05 - Métodos para remover item do Array | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/a0ad40692ad001ddc89bf4dad128f108bcff628e.zip)
+Aula 01 | Vídeo 06 - Se aprofundando no método Splice | 01:06 - Se aprofundando no método Splice | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/17d1c643ef3e32d2076451c95f3644ec5dfe77f7.zip)
+Aula 01 | Vídeo 07 - Buscando um item do Array com o método Find | 01:07 -  Buscando um item do Array com o método Find | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/5a30eee1c7a00665af8636b4e7d0aa38a5a82470.zip)
+Aula 01 | Vídeo 08 - Iterando sobre o Array | 01:08 - Iterando sobre o Array | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/553f09bf40085391d1220845b45cda4ef2a1dd32.zip)
+Aula 01 | Vídeo 09 - desestruturação | 01:09 - desestruturação | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/86484c11d8a74a709aa2a7015e111eb2aa0c581c.zip)
+Aula 01 | Vídeo 10 - Spread operator | 01:10 - Spread operator | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/3d9e79e0a7f1fd14ee41ebba4e0602e63347c968.zip)
+Aula 01 | Vídeo 11 - Método de manipulação Map | 01:11 - Método de manipulação Map | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/863cd6b3d0c4c1b2c3b9f27423cc2974941cc334.zip)
+Aula 01 | Vídeo 12 - Método de ordenação Sort e Reverse | 01:12 - Método de ordenação Sort e Reverse | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/a44e8c87691fc40a40ad395efdcbfc3ecef08f0c.zip)
+Aula 01 | Vídeo 13 - Método para cortar o Array Slice | 01:13 - Método para cortar o Array Slice | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/6faaa9c94a5d7fe602fb979956b3bfbad48a2b42.zip)
+Aula 01 | Vídeo 14 - Juntando dois Arrays com o método Concat | 01:14 - Juntando dois Arrays com o método Concat | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/7fa7aa0e8561893a60134edfdeed69678e192b1f.zip)
+Aula 01 | Vídeo 15 - Filtrando um Array com o método Filter | 01:15 - Filtrando um Array com o método Filter | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/65208289d4d102d4973aced90f1d8ff6a37d0825.zip)
+Aula 01 | Vídeo 16 - Entendendo o método Reduce | 01:16 - Entendendo o método Reduce | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/2d461629db0836244aa759cd89d5376ddbf7c107.zip)
+Aula 01 | Vídeo 17 - Juntando todo array com o método Join | 01:17 - Juntando todo array com o método Join | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-array/archive/149557b096d254edb6f29d32eaff003fddb81ab0.zip)
