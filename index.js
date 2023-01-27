@@ -1,16 +1,19 @@
-const numeros = [5, 6, 3, 1, 4];
-const letras = ["d", "a", "b", "c"];
+const animais = ['bufalo', 'camelo', 'pato', 'elefante'];
 
-const numerosELetras = [...letras, ...numeros];
+console.log(animais.slice(1));
 
-// console.log(numeros.sort());
-// console.log(letras.sort());
-// console.log(numerosELetras.sort());
+console.log(animais.slice(1, 2));
 
-// console.log(numeros.reverse());
-// console.log(letras.reverse());
-// console.log(numerosELetras.reverse());
+console.log(animais.slice(0, 3));
 
-console.log(numeros.sort().reverse());
-console.log(letras.sort().reverse());
-console.log(numerosELetras.sort().reverse());
+console.log(animais.slice(2, 1));
+
+console.log(animais.slice(2, -1));
+
+console.log(animais.slice(1, -1));
+
+console.log(animais.slice(1, -2));
+
+console.log(animais.slice(-2));
+
+console.log(animais.slice());
