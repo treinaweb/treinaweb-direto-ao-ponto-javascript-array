@@ -1,6 +1,11 @@
-const [dia, mes, ano, ...res] = [16, 04, 1993, 15, 10, 20];
+// const array = [1, 2, ...[3, 4, 5]];
 
+// console.log(array[2]);
 
+const frutasTropicais = ["acerola", "cajá"];
 
-console.log(dia, mes, ano);
-console.log(res);
+const frutasDeInverno = ["banana", "carambola"];
+
+const frutas = ["uva", "mamão", ...frutasTropicais, ...frutasDeInverno];
+
+console.log(frutas);
