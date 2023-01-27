@@ -1,24 +1,6 @@
-const frutas = ["maçã", "mamão", "laranja", "banana"];
+const [dia, mes, ano, ...res] = [16, 04, 1993, 15, 10, 20];
 
 
-// for (let i = 1; i < frutas.length; i++) {
-//     const nomeFruta = frutas[i];
 
-//     const indiceFruta = frutas.indexOf(nomeFruta)
-
-//     console.log(`${indiceFruta}-${nomeFruta}`);
-// }
-
-
-// frutas.forEach(function (fruta, indice, frutas) {
-//     console.log(`${fruta}-${indice}`);
-//     // console.log(frutas);
-// });
-
-// for (const indice in frutas) {
-//     console.log(indice);
-// }
-
-for (const nome of frutas) {
-    console.log(nome);
-}
+console.log(dia, mes, ano);
+console.log(res);
