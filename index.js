@@ -1,19 +1,12 @@
 const animais = ['bufalo', 'camelo', 'pato', 'elefante'];
 
-console.log(animais.slice(1));
+const frutas = ["maçã", "mamão", "laranja", "banana"];
 
-console.log(animais.slice(1, 2));
 
-console.log(animais.slice(0, 3));
+// const array = ["uva, pera"].concat(animais).concat(frutas);
 
-console.log(animais.slice(2, 1));
+// const array = animais.concat(frutas);
 
-console.log(animais.slice(2, -1));
+const array = animais.concat(["zebra, onça"]);
 
-console.log(animais.slice(1, -1));
-
-console.log(animais.slice(1, -2));
-
-console.log(animais.slice(-2));
-
-console.log(animais.slice());
+console.log(array);
