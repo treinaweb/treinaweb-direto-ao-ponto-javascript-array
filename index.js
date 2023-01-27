@@ -1,26 +1,24 @@
-// const numeros = [5, 12, 8, 130, 44];
+const frutas = ["maçã", "mamão", "laranja", "banana"];
 
-// const numero = numeros.find(function (numero) {
-//     return numero > 10;
+
+// for (let i = 1; i < frutas.length; i++) {
+//     const nomeFruta = frutas[i];
+
+//     const indiceFruta = frutas.indexOf(nomeFruta)
+
+//     console.log(`${indiceFruta}-${nomeFruta}`);
+// }
+
+
+// frutas.forEach(function (fruta, indice, frutas) {
+//     console.log(`${fruta}-${indice}`);
+//     // console.log(frutas);
 // });
 
-// console.log(numero);
+// for (const indice in frutas) {
+//     console.log(indice);
+// }
 
-const alunos = [
-    {
-        nome: 'Ariel',
-        sobrenome: 'Sardinha'
-    },
-    {
-        nome: 'Elton',
-        sobrenome: 'Fonseca'
-    },
-    {
-        nome: 'Amauri',
-        sobrenome: 'Blanco'
-    }
-];
-
-const aluno = alunos.find((aluno) => aluno.nome === 'Amauri');
-
-console.log(aluno);
+for (const nome of frutas) {
+    console.log(nome);
+}
