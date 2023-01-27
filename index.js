@@ -1,10 +1,7 @@
 const frutas = ["maçã", "mamão", "laranja", "banana"];
 
+frutas.shift();
 
-frutas.unshift("coco");
+// frutas.pop();
 
-frutas.push("uva");
-
-frutas.push("morango")
-
-console.log();
+console.log(frutas.pop());
